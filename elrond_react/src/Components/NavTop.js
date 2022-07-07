@@ -11,6 +11,10 @@ const NavTop = () => {
                     <a href="#">Maiar</a>
                     <a href="#">Exchange</a>
                     <a href="#">Launchpad</a>
+                    <a href="#"><i class="bi bi-github"></i></a>
+                    <a href="#"><i class="bi bi-telegram"></i></a>
+                    <a href="#"><i class="bi bi-twitter"></i></a>
+
                     {/* <!-- Github -->
                     <!-- Telegram -->
                     <!-- Twitter --> */}
